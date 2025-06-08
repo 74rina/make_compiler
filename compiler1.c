@@ -1,3 +1,4 @@
+//コマンドの第１引数を数字としてアセンブリに変換する
 #include <stdio.h>
 #include <stdlib.h>
 
