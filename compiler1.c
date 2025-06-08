@@ -15,4 +15,3 @@ int main(int argc, char **argv) {
   return 0;
 }
 
-feat: コマンドの第一引数を数字としてアセンブリに変換する
